@@ -25,12 +25,12 @@ const Input: React.FC<CardProps> = ({ ...props }) => (
         <Footer>
             <Button hoverColor="red">
                 <FiTrash2 size="20" color="#dd2f2f" />
-                <a href="#" onClick={notImplementedYet}>Excluir</a>
+                <a href="http://localhost:3000" onClick={notImplementedYet}>Excluir</a>
             </Button>
             <Divider />
             <Button hoverColor="#ed8a50" >
                 <FiEdit2 size="20" color="#ed8a50" />
-                <a href="#" onClick={notImplementedYet}>Editar</a>
+                <a href="http://localhost:3000" onClick={notImplementedYet}>Editar</a>
             </Button>
         </Footer>
 

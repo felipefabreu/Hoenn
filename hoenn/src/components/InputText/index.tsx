@@ -1,4 +1,4 @@
-import React, { InputHTMLAttributes, FormHTMLAttributes } from 'react';
+import React from 'react';
 
 import { Container } from './style';
 

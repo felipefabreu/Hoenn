@@ -1,4 +1,4 @@
-import React, { InputHTMLAttributes, FormHTMLAttributes } from 'react';
+import React, { InputHTMLAttributes } from 'react';
 import { IconBaseProps } from 'react-icons/lib';
 
 import { SearchForm } from './style';
